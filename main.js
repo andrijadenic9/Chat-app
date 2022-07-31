@@ -7,7 +7,7 @@ let chatName = '';
 let directions = ['start', 'end'];
 let borderRadius = ['left', 'right'];
 let borders = ['#ff1177', '#228dff'];
-let badWords = ["shit", "monster", 'pizza'];
+let badWords = ["bread", "monster", 'pizza'];
 let flexBool = true;
 
 let inputPlayer1 = document.querySelector('[data-id="input-player1"]');
