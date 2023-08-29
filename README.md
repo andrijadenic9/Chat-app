@@ -13,7 +13,7 @@ Welcome to the Chat App repository! This application offers a secure platform fo
 
 ## View the App
 
-Explore the Bank Management App through this link: [Chat with the App](https://andrijadenic9.github.io/Chat-app/)
+Chat with your friend through this link: [Chat with the App](https://andrijadenic9.github.io/Chat-app/)
 
 ## Tech Stack
 
